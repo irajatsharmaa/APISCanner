@@ -1,0 +1,9 @@
+my_package.module1.eval():This function is deprecated use instead lambda.eval() or unsafe.eval()., ./pillow/my_package/module1.py
+my_package.module1.toString():This function is deprecated use instead tobytes()., ./pillow/my_package/module1.py
+my_package.module1.fromString():This function is deprecated use instead frombytes()., ./pillow/my_package/module1.py
+my_package.module1.getoffset():This function is deprecated use instead getlength()., ./pillow/my_package/module1.py
+my_package.module1.getsize():This function is deprecated use instead getbbox()., ./pillow/my_package/module1.py
+my_package.module1.getsize_multiline():This function is deprecated  use instead multiline_textbox()., ./pillow/my_package/module1.py
+my_package.module1.textsize():This function is deprecated use instead textlength() or textbox()., ./pillow/my_package/module1.py
+my_package.module1.multiline_textsize():This function is deprecated use instead ImageDraw2.Draw.textbbox() or ImageDraw2.Draw.textlength()., ./pillow/my_package/module1.py
+my_package.module1.im.offset():This function is deprecated use instead ImageChops.offset()., ./pillow/my_package/module1.py

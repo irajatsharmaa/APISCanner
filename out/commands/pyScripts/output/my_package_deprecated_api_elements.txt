@@ -1,0 +1,9 @@
+eval():This function is deprecated use lambda.eval() or unsafe.eval() instead.
+toString():This function is deprecated use tobytes() instead.
+fromString():This function is deprecated use frombytes() instead.
+getoffset():This function is deprecated use getlength() instead. 
+getsize():This function is deprecated use getbbox() instead.
+getsize_multiline():This function is deprecated use  multiline_textbox() instead.
+textsize():This function is deprecated use textlength() or textbox() instead.
+multiline_textsize():This function is deprecated  use ImageDraw2.Draw.textlenght() or ImageDraw2.Draw.textbbox() instead.
+im.offset():This function is deprecated use ImageChops.offset() instead
